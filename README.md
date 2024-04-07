@@ -1,1 +1,1 @@
- Copia e autentifica documentos e rastreia suas modificações.
+Atividade de Autenticação de Conteúdo e Criptografia usando Chaves
